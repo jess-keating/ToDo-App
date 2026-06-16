@@ -23,5 +23,3 @@ URL (Uniform Resource Locator) is a specific type of URI (Uniform Resource Ident
 URI is any endpoint where is reachable
 
 URL is the main http or https
-
-Adding a line to test using a feature branch.
